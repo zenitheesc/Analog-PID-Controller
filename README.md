@@ -10,26 +10,26 @@ The project was developed in three parts. The first was a simetric supply to 6V 
     <a href="https://eesc.usp.br/">
     <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zenitheesc/Analog-PID-Controller?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
-    <img src="https://img.shields.io/github/issues/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/issues">
+    <img src="https://img.shields.io/github/issues/zenitheesc/Analog-PID-Controller?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/Analog-PID-Controller?style=for-the-badge">
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zenitheesc/Analog-PID-Controller?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
-    <img src="https://img.shields.io/github/last-commit/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/commits/main">
+    <img src="https://img.shields.io/github/last-commit/zenitheesc/Analog-PID-Controller?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
-    <img src="https://img.shields.io/github/issues-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge" />
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/issues">
+    <img src="https://img.shields.io/github/issues-raw/zenitheesc/Analog-PID-Controller?style=for-the-badge" />
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/pulls">
-    <img src = "https://img.shields.io/github/issues-pr-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
+    <a href="https://github.com/zenitheesc/Analog-PID-Controller/pulls">
+    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/Analog-PID-Controller?style=for-the-badge">
     </a>
 </p>
 
