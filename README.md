@@ -1,5 +1,7 @@
-<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+
+<h1 align="center" style="color:white; background-color:black">Analog PID Controller</h1>
+<h4 align="center">
+The project was developed in three parts. The first was a simetric supply to 6V at -6V, that was responsable to supply the requires voltages to second part, the PID controler. The PID controller was developed using operational amplifiers in derivatived and integral configuration The tird one was a motor velocity and position sensor, developed using fotodiodes like an encoder.</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -37,20 +39,9 @@
     <a href="#how-to-contribute">How to contribute?</a> •
 </p>
 
-## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
-
-## Steps to run and debug
-
-`A simple list of steps indicating how one can run and test the project.`
-
-## How to contribute
-
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
-
+![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/pid4.jpg)
+![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/pid3.jpg)
 ---
 
 <p align="center">
