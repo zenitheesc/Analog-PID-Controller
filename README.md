@@ -33,11 +33,6 @@ The project was developed in three parts. The first was a simetric supply to 6V 
     </a>
 </p>
 
-<p align="center">
-    <a href="#environment-and-tools">Environment and Tools</a> •
-    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
-    <a href="#how-to-contribute">How to contribute?</a> •
-</p>
 
 
 ![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/pid4.jpg)
